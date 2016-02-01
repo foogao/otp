@@ -1,6 +1,8 @@
 Erlang/OTP
 ==========
 
+[![Join the chat at https://gitter.im/foogao/otp](https://badges.gitter.im/foogao/otp.svg)](https://gitter.im/foogao/otp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Erlang** is a programming language used to build massively scalable soft
 real-time systems with requirements on high availability. Some of its
 uses are in telecom, banking, e-commerce, computer telephony and
